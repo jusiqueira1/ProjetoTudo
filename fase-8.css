@@ -1,0 +1,57 @@
+body {
+    background-image: url("p8.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.animate {
+    width: 110px;
+    height: 110px;
+    background-image: url('boneco2.png');
+    background-size: contain;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#animate_2 {
+    width: 140px;
+    height: 140px;
+    position: absolute;
+    background-image: url('coroa.png');
+    background-size: contain;
+    left: 100px;
+    top: 400px;
+}
+
+#animate_3 {
+    width: 140px;
+    height: 140px;
+    position: absolute;
+    background-image: url('coroa.png');
+    background-size: contain;
+    left: 900px;
+    top: 100px;
+}
+
+#animate_4 {
+    width: 140px;
+    height: 140px;
+    position: absolute;
+    background-image: url('coroa.png');
+    background-size: contain;
+    left: 450px;
+    top: 200px;
+}
+
+#animate_5 {
+    width: 140px;
+    height: 140px;
+    position: absolute;
+    background-image: url('coroa.png');
+    background-size: contain;
+    left: 700px;
+    top: 600px;
+}
